@@ -2,7 +2,7 @@ body {
   background: #F0F0F3 !important;
 }
 
-.login-box, .signup-box {
+.login-box, .signup-box, .dashboard-box {
   background: #fff;
   border: 1px solid #ddd;
   margin:100px 0;
